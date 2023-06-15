@@ -1,2 +1,3 @@
 # StaticWebsiteProject_JL
-First Static Website with Cloudfront URL and S3 Endpoint
+Deployed my first Static Website with Cloudfront. 
+  - Screenshots of Cloudfront URL and S3 Endpoint.
